@@ -35,8 +35,8 @@ const Testimonial1 = () => {
       };  
 
     const testimonialContent = [
-        {subtitle:'CEO & Founder', title:'Ms. Alex Mika', content:'Binorly Agency completely transformed our online presence! Their exceptional website development expertise to beyond expectations, creating a visually stunning and user-friendly website. The team is attention to detail and commitment to!'},
-        {subtitle:'CEO & Founder', title:'Ms. Alex Mika', content:'Binorly Agency completely transformed our online presence! Their exceptional website development expertise to beyond expectations, creating a visually stunning and user-friendly website. The team is attention to detail and commitment to!'},
+        {subtitle:'CEO & Founder', title:'Ms. Alex Mika', content:'Ace Studios completely transformed our online presence! Their exceptional website development expertise to beyond expectations, creating a visually stunning and user-friendly website. The team is attention to detail and commitment to!'},
+        {subtitle:'CEO & Founder', title:'Ms. Alex Mika', content:'Ace Studios completely transformed our online presence! Their exceptional website development expertise to beyond expectations, creating a visually stunning and user-friendly website. The team is attention to detail and commitment to!'},
       ]; 
 
     return (

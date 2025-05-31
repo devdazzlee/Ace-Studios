@@ -38,7 +38,7 @@ const BreadCumb = ({Title,content}) => {
                 <div className="col-lg-3">
                     
                     <div className="circle-box float-xl-end text-center text-xl-end">
-                        <img className="rotate360" src="/assets/images/pages/shape/circle-shape1.png" alt="img" />
+                        <img className="rotate360" src="/assets/images/pages/shape/circle-shape1.webp" alt="img" />
                     </div>
                 </div>
             </div>

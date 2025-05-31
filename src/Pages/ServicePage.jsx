@@ -16,7 +16,7 @@ const ServicePage = () => {
             <Services4></Services4> 
             <Brand4></Brand4> 
             <Blog3
-                paddingTop="ace-studios-blog pb-80"
+                paddingTop="agenko-blog pb-80"
             ></Blog3>       
         </div>
     );

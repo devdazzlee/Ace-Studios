@@ -37,7 +37,7 @@ const Pricing1 = () => {
                             <div className="agenko-pricing-item style-two mb-20 pf_fadeup">
                                 <div className="pricing-head">
                                     <h4>Basic</h4>
-                                    <div className="pricing"><span className="sign">$</span>43/mo</div>
+                                    <div className="pricing"><span className="sign">$</span>500/mo</div>
                                 </div>
                                 <div className="pricing-body">
                                     <p>We responsive user-friendly websites tailored to your ensuring seamless functionality, engaging design.</p>
@@ -47,7 +47,7 @@ const Pricing1 = () => {
                             <div className="agenko-pricing-item style-two mb-20 pf_fadeup">
                                 <div className="pricing-head">
                                     <h4>Standard</h4>
-                                    <div className="pricing"><span className="sign">$</span>43/mo</div>
+                                    <div className="pricing"><span className="sign">$</span>1000/mo</div>
                                 </div>
                                 <div className="pricing-body">
                                     <p>We responsive user-friendly websites tailored to your ensuring seamless functionality, engaging design.</p>
@@ -57,7 +57,7 @@ const Pricing1 = () => {
                             <div className="agenko-pricing-item style-two mb-20 pf_fadeup">
                                 <div className="pricing-head">
                                     <h4>Premium</h4>
-                                    <div className="pricing"><span className="sign">$</span>43/mo</div>
+                                    <div className="pricing"><span className="sign">$</span>1500/mo</div>
                                 </div>
                                 <div className="pricing-body">
                                     <p>We responsive user-friendly websites tailored to your ensuring seamless functionality, engaging design.</p>

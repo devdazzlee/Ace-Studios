@@ -4579,9 +4579,10 @@ label {
   padding: 5px;
   display: inline-block;
   border-radius: 40px;
-  border: 1px solid var(--Stock-Color, #313131);
+  /* border: 1px solid var(--Stock-Color, #313131); */
   background-color: #0E0F11;
   margin-bottom: 20px;
+  
 }
 .footer-widget .footer-content ul li:not(:last-child) {
   margin-bottom: 13px;
@@ -6634,7 +6635,7 @@ label {
 }
 .cs_site_branding {
   display: inline-block;
-  border: 1px solid var(--border-color);
+  /* border: 1px solid var(--border-color); */
     text-align: center;
     padding: 3px 5px;
     border-radius: 40px;

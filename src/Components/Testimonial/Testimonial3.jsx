@@ -35,8 +35,8 @@ const Testimonial3 = () => {
       };  
 
     const testimonialContent = [
-        {subtitle:'CEO & Founder', title:'Ms. Alex Mika', content:'Binorly Agency completely transformed our online presence! Their exceptional website development expertise to beyond expectations, creating a visually stunning and user-friendly website. The team is attention to detail and commitment to!'},
-        {subtitle:'CEO & Founder', title:'Ms. Alex Mika', content:'Binorly Agency completely transformed our online presence! Their exceptional website development expertise to beyond expectations, creating a visually stunning and user-friendly website. The team is attention to detail and commitment to!'},
+        {subtitle:'CEO & Founder', title:'Ms. Alex Mika', content:'Ace Studios completely transformed our online presence! Their exceptional website development expertise to beyond expectations, creating a visually stunning and user-friendly website. The team is attention to detail and commitment to!'},
+        {subtitle:'CEO & Founder', title:'Ms. Alex Mika', content:'Ace Studios completely transformed our online presence! Their exceptional website development expertise to beyond expectations, creating a visually stunning and user-friendly website. The team is attention to detail and commitment to!'},
       ]; 
 
     return (
@@ -54,7 +54,7 @@ const Testimonial3 = () => {
                                 <div className="col-lg-6">
                                    
                                     <div className="text-box mb-45 pf_fadeup">
-                                        <p>Discover how our clients achieved success with Binorly Agency's expert <span>web design and development</span>, delivering outstanding digital solutions.</p>
+                                        <p>Discover how our clients achieved success with Ace Studios's expert <span>web design and development</span>, delivering outstanding digital solutions.</p>
                                     </div>
                                 </div>
                             </div>

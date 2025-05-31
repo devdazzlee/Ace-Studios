@@ -18,7 +18,7 @@ const Pricing2 = () => {
                             <div className="shape"><span></span></div>
                             <div className="pricing-head">
                                 <span className="plan">Basic</span>
-                                <h2 className="price"><span className="currency">$</span>12/mo</h2>
+                                <h2 className="price"><span className="currency">$</span>500/mo</h2>
                                 <p>Essential features at an affordable price for getting started.</p>
                             </div>
                             <div className="pricing-body">
@@ -40,7 +40,7 @@ const Pricing2 = () => {
                             <div className="shape"><span></span></div>
                             <div className="pricing-head">
                                 <span className="plan">Standard</span>
-                                <h2 className="price"><span className="currency">$</span>43/mo</h2>
+                                <h2 className="price"><span className="currency">$</span>1000/mo</h2>
                                 <p>Essential features at an affordable price for getting started.</p>
                             </div>
                             <div className="pricing-body">
@@ -62,7 +62,7 @@ const Pricing2 = () => {
                             <div className="shape"><span></span></div>
                             <div className="pricing-head">
                                 <span className="plan">Basic</span>
-                                <h2 className="price"><span className="currency">$</span>99/mo</h2>
+                                <h2 className="price"><span className="currency">$</span>1500/mo</h2>
                                 <p>Essential features at an affordable price for getting started.</p>
                             </div>
                             <div className="pricing-body">

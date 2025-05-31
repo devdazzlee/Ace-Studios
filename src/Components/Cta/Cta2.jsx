@@ -9,7 +9,7 @@ const Cta2 = () => {
                     
                     <div className="big-text mb-50 pf_fadeup">
                         <span className="fill-text">Join Our</span>
-                        <span><img src="/assets/images/pages/shape/circle-shape1.png" alt="circle-shape" />Talented</span>
+                        <span><img src="/assets/images/pages/shape/circle-shape1.webp" alt="circle-shape" />Talented</span>
                         <span>Team</span>
                     </div>
                 </div>

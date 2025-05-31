@@ -22,14 +22,14 @@ const Team1 = () => {
                             </div>
                         </div>
                         <div className="col-lg-5">
-                            <div className="agk-button mb-60 float-lg-end text-lg-end text-center pf_fadeup">
+                            {/* <div className="agk-button mb-60 float-lg-end text-lg-end text-center pf_fadeup">
                                 <Link to="/team" className="theme-btn style-one">
                                     <span className="text-flip">
                                         <span className="text">View Teams</span>
                                         <span className="text">View Teams</span>
                                     </span>
                                 </Link>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                     <div className="row">
@@ -38,7 +38,7 @@ const Team1 = () => {
                             <div className="agenko-team-item style-one mb-40 pf_fadeup">
                                 <div className="member-image">
                                     <img src={item.img} alt="Team Image" />
-                                    <div className="icon-btn"><Link to="/team/team-details"><i className="bi bi-plus-lg"></i></Link></div>
+                                    {/* <div className="icon-btn"><Link to="/team/team-details"><i className="bi bi-plus-lg"></i></Link></div> */}
                                 </div>
                                 <div className="member-info">
                                     <span className="position">{item.name}</span>

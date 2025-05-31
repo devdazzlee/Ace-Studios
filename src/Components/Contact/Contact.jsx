@@ -3,7 +3,7 @@ import React from 'react';
 const Contact = () => {
     return (
         <div>
-            <section class="ace-studios-contact pt-130 pb-80">
+            <section class="agenko-contact pt-130 pb-80">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5">
@@ -16,7 +16,7 @@ const Contact = () => {
                                     </li>
                                     <li>
                                         
-                                        <div class="ace-studios-info-box">
+                                        <div class="agenko-info-box">
                                             <div class="content">
                                                 <h3>Address</h3>
                                                 <p>6801 Hollywood Blvd, Los Angeles, 
@@ -28,7 +28,7 @@ const Contact = () => {
                                     </li>
                                     <li>
                                         
-                                        <div class="ace-studios-info-box">
+                                        <div class="agenko-info-box">
                                             <div class="content">
                                                 <h3>Email</h3>
                                                 <p><a href="mailto:Info@acestudios.com">Info@acestudios.com</a></p>
@@ -38,7 +38,7 @@ const Contact = () => {
                                     </li>
                                     <li>
                                         
-                                        <div class="ace-studios-info-box">
+                                        <div class="agenko-info-box">
                                             <div class="content">
                                                 <h3>Follow</h3>
                                                 <div class="social-link">
@@ -55,13 +55,13 @@ const Contact = () => {
                         </div>
                         <div class="col-lg-7">
                             
-                            <div class="ace-studios-content-box mb-50 pf_fadeup">
+                            <div class="agenko-content-box mb-50 pf_fadeup">
                                 <div class="section-title mb-20">
                                     <span class="sub-title">Get In Touch</span>
                                     <h2>Get started and grow your business now.</h2>
                                 </div>
                                 <p class="mb-20">Start today to unlock opportunities and drive your business toward success.</p>
-                                <form class="ace-studios-contact-form style-one" id="contact-form" action="contact.php" method="POST">
+                                <form class="agenko-contact-form style-one" id="contact-form" action="contact.php" method="POST">
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
@@ -96,7 +96,7 @@ const Contact = () => {
                     </div>
                 </div>
             </section>
-            <section class="ace-studios-map">
+            <section class="agenko-map">
                 
                 <div class="map-box" data-aos="fade-up" data-aos-duration="1300">
                     <iframe src="https://maps.google.com/maps?q=new%20york&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe>
